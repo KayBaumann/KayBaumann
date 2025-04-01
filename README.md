@@ -1,11 +1,12 @@
 ## Hi there 👋
 
-My name is Kay Trachsel.
-I am an aspiring application development IT specialist with a vocational baccalaureate in Business & Services at the Informatics Secondary School in Lucerne.
+My name is Kay Trachsel. 
+I am an aspiring software developer in Lucerne
 
 Currently looking for:
-● Short-term internship in summer 2025
-● Long-term internship starting summer 2026
+- Short-term internship in summer 2025  
+- Long-term internship starting summer 2026
+
 
 ---
 
