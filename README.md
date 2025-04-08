@@ -11,5 +11,5 @@ Currently looking for:
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayTrachsel&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayTrachsel&layout=compact&theme=shadow_blue&hide_border=true" />
 </p>
