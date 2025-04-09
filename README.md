@@ -11,7 +11,7 @@ I am currently looking for:
 
 ---
 
-## 🛠️ My Tech Stack (With Working Microsoft 365 Icons)
+## 🛠️ My Tech Stack
 
 ### 🧠 Programming Languages & Markup
 <p>
