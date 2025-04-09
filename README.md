@@ -11,7 +11,7 @@ I am currently looking for:
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ My Development Toolbox
 
 ### 🧠 Programming Languages & Markup
 <p>
