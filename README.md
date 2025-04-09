@@ -69,3 +69,15 @@ Currently looking for:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayTrachsel&layout=compact&theme=transparent&hide_border=true" />
 </p>
+
+
+
+<h3>🛠️ Development Tools</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="50"/>
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="50"/> <!-- SimpleIcons PNG -->
+</p>
