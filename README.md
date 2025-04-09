@@ -1,3 +1,4 @@
+
 ## Hi there 👋
 
 My name is Kay Trachsel.  
@@ -11,16 +12,16 @@ Currently looking for:
 
 <h2>🛠️ My Tech Stack</h2>
 
-<h3>🧠 Languages & Syntax</h3>
+<h3 style="color:#ff79c6;">🧠 Languages & Syntax</h3>
 <p>
   <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-FFD343?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-F7CB2D?style=for-the-badge&logo=python&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-2862E9?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/Markdown-111111?style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
@@ -28,14 +29,14 @@ Currently looking for:
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-<h3>⚙️ Shell & Scripts</h3>
+<h3 style="color:#f1fa8c;">⚙️ Shell & Scripts</h3>
 <p>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Batch-444444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Batch-555555?style=for-the-badge" />
 </p>
 
-<h3>🧩 Frameworks & Platforms</h3>
+<h3 style="color:#8be9fd;">🧩 Frameworks & Platforms</h3>
 <p>
   <img src="https://img.shields.io/badge/WPF-68217A?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white" />
@@ -49,19 +50,19 @@ Currently looking for:
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
 </p>
 
-<h3>📁 Version Control</h3>
+<h3 style="color:#ffb86c;">📁 Version Control</h3>
 <p>
   <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
 </p>
 
-<h3>🧪 Testing & Quality</h3>
+<h3 style="color:#bd93f9;">🧪 Testing & Quality</h3>
 <p>
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </p>
 
-<h3>🛠️ Development Tools</h3>
+<h3 style="color:#50fa7b;">🛠️ Development Tools</h3>
 <p>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
