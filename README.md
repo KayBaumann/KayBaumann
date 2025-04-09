@@ -18,10 +18,14 @@ Currently looking for:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+</p>
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="50"/>
+</p>
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
 </p>
 
@@ -37,6 +41,8 @@ Currently looking for:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
+</p>
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50"/>
 </p>
 
@@ -58,6 +64,8 @@ Currently looking for:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50"/>
+</p>
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
 </p>
@@ -66,9 +74,10 @@ Currently looking for:
 <p>
   <img src="https://img.icons8.com/color/48/000000/microsoft-word-2019.png" width="50"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-onenote-2019.png" width="50"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-onedrive.png" width="50"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-teams.png" width="50"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" width="50"/>
+</p>
+<p>
   <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019.png" width="50"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019.png" width="50"/>
 </p>
