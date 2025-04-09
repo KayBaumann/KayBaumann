@@ -1,12 +1,13 @@
-
 ## Hi there 👋
 
-My name is Kay Trachsel.  
-I am an aspiring software developer based in Lucerne.
+My name is Kay Trachsel, and I am an aspiring software developer based in Lucerne, currently in my second year at the Informatikmittelschule (IMS) in Lucerne.  
 
-Currently looking for:
-- Short-term internship in **summer 2025**  
-- Long-term internship starting **summer 2026**
+With around 2 years of coding experience, I have a solid foundation in various programming languages and technologies.
+
+I am currently looking for:
+
+- A short-term internship in **summer 2025**  
+- A long-term internship starting **summer 2026**
 
 ---
 
