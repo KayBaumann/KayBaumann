@@ -79,5 +79,5 @@ I am currently looking for:
 
 ### 🌐 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayTrachsel&layout=compact&theme=transparent&hide_border=true&card_width=600" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayBaumann&layout=compact&theme=transparent&hide_border=true&card_width=600" />
 </p>
