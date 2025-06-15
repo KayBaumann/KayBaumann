@@ -4,10 +4,23 @@ My name is Kay Baumann, and I am an aspiring software developer based in Lucerne
 
 With around 2 years of coding experience, I have a solid foundation in various programming languages and technologies.
 
-I am currently looking for:
+💼 I’m currently looking for a long-term internship starting in summer 2026
 
-- A short-term internship in **summer 2025**  
-- A long-term internship starting **summer 2026**
+I'm open to new projects and enjoy exchanging ideas with other motivated developers.
+
+Feel free to get in touch:
+- 📧 Email: kay.baumann01@gmail.com  
+- 📸 Instagram: [@k4y_bmn](https://www.instagram.com/k4y_bmn/)
+---
+
+## 🚀 Current Projects
+
+Here are some of the projects I’m currently working on:
+
+- 🐾 [**PetConnect**](https://github.com/KayBaumann/PetConnect) – A multilingual web platform for animal adoption, using Vue.js & MongoDB.
+- 🔐 [**SouthVPN**](https://github.com/KayBaumann/SouthVPN) – A WPF-based VPN client.
+- 🧾 [**MoneyMind**](https://github.com/Timon1177/MoneyMind) – A personal finance manager built with C# and SQLite (WPF).
+- 🎲 [**Blackjack**](https://github.com/KayBaumann/blackjack) – A WPF Blackjack game with persistent score tracking using MongoDB.
 
 ---
 
