@@ -20,7 +20,7 @@ Here are some of the projects I’m currently working on:
 - 🐾 [**PetConnect**](https://github.com/KayBaumann/PetConnect) – A multilingual web platform for animal adoption, using Vue.js & MongoDB.
 - 🔐 [**SouthVPN**](https://github.com/KayBaumann/SouthVPN) – A WPF-based VPN client.
 - 🧾 [**MoneyMind**](https://github.com/Timon1177/MoneyMind) – A personal finance manager built with C# and SQLite (WPF).
-- 🎲 [**Blackjack**](https://github.com/KayBaumann/blackjack) – A WPF Blackjack game with persistent score tracking using MongoDB.
+- 🎲 [**Blackjack**](https://github.com/KayBaumann/blackjack) – A WPF Blackjack game with persistent score tracking using SQLite.
 
 ---
 
