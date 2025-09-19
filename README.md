@@ -4,8 +4,6 @@ My name is Kay Baumann, and I am an aspiring software developer based in Lucerne
 
 With around 2 years of coding experience, I have a solid foundation in various programming languages and technologies.
 
-💼 I’m currently looking for a long-term internship starting in summer 2026
-
 I'm open to new projects and enjoy exchanging ideas with other motivated developers.
 
 Feel free to get in touch:
