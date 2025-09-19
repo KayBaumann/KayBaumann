@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+> ✈️ I'm away for the next three weeks on a language stay in England.
+
 My name is Kay Baumann, and I am an aspiring software developer based in Lucerne, currently in my second year at the Informatikmittelschule in Lucerne.  
 
 With around 2 years of coding experience, I have a solid foundation in various programming languages and technologies.
