@@ -2,7 +2,7 @@
 
 My name is Kay Baumann, and I am an aspiring software developer based in Lucerne, currently in my third year at the Informatikmittelschule in Lucerne.  
 
-With around 2 years of coding experience, I have a solid foundation in various programming languages and technologies.
+With around 3 years of coding experience, I have a solid foundation in various programming languages and technologies.
 
 I'm open to new projects and enjoy exchanging ideas with other motivated developers.
 
