@@ -13,11 +13,11 @@ Feel free to get in touch:
 
 ## 🚀 Current Projects
 
-Here are some of the projects I’m currently working on:
+Here are some of the projects I'm currently working on:
 
+- 👗 **Closetly** – An Android app for managing your wardrobe, built with Kotlin & Jetpack Compose.
 - 🐾 [**PetConnect**](https://github.com/KayBaumann/PetConnect) – A multilingual web platform for animal adoption, using Vue.js & MongoDB.
 - 🔐 [**SouthVPN**](https://github.com/KayBaumann/SouthVPN) – A WPF-based VPN client.
-- 🧾 [**MoneyMind**](https://github.com/Timon1177/MoneyMind) – A personal finance manager built with C# and SQLite (WPF).
 - 🎲 [**Blackjack**](https://github.com/KayBaumann/blackjack) – A WPF Blackjack game with persistent score tracking using SQLite.
 
 ---
@@ -27,6 +27,8 @@ Here are some of the projects I’m currently working on:
 ### 🧠 Programming Languages & Markup
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
@@ -48,8 +50,10 @@ Here are some of the projects I’m currently working on:
 ### 🧩 Frontend & Backend Frameworks
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50"/>
 </p>
