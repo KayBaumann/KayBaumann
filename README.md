@@ -1,4 +1,8 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:246795,100:1a4d6f&height=260&section=header&text=Kay%20Baumann&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20based%20in%20Lucerne" />
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&vCenter=true&lines=Hi+there+👋" />
+</p>
 
 My name is Kay Baumann, and I am an aspiring software developer based in Lucerne, currently in my third year at the Informatikmittelschule in Lucerne.  
 
@@ -76,3 +80,4 @@ Here are some of my favorite projects:
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:246795,100:1a4d6f&height=120&section=footer" />
